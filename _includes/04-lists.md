@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+1. Hundur
+1. Köttur
+1. Hestur
+
+
+- Hundur
+- Köttur
+- Hestur
+  - Blesóttur
+
+🎉 😙 🛩️
